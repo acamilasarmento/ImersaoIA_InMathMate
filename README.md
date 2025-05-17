@@ -116,7 +116,7 @@ O **InMathMate** foi desenvolvido para o desafio da Imersão IA da Alura com o G
 
   ## 🙏 **Agradecimentos**
 
-Gostaríamos de expressar nossa sincera gratidão à **Alura** e ao **Google Gemini** por proporcionarem esta incrível Imersão em IA. Foi uma jornada de aprendizado transformadora, que nos capacitou a desenvolver soluções inovadoras como o InMathMate. Agradecemos a toda a equipe de instrutores, mentores e à comunidade pelo apoio e inspiração constantes. Muito obrigado!
+Gostaria de expressar sincera gratidão à **Alura** e ao **Google Gemini** por proporcionarem esta incrível Imersão em IA. Foi uma jornada de aprendizado transformadora, que me capacitou a desenvolver soluções inovadoras como o InMathMate. Agradecemos a toda a equipe de instrutores, mentores e à comunidade pelo apoio e inspiração constantes. Muito obrigada!
 
  ---
 
