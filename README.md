@@ -87,7 +87,7 @@ Para testar o **InMathMate** e ver a mágica acontecer em seu ambiente Google Co
 
 ## 📺 **Demonstração do InMathMate **
 
-- Vídeo Demonstrativo: (https://www.loom.com/share/53efb207aa5f48b1b64c25139399fd3a?sid=c33d129b-77ac-4b51-9ef6-e027428a1538)
+- Vídeo Demonstrativo: https://www.loom.com/share/53efb207aa5f48b1b64c25139399fd3a?sid=c33d129b-77ac-4b51-9ef6-e027428a1538
 
 ---
 
