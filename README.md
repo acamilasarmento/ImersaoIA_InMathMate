@@ -13,8 +13,6 @@ Imagine um mundo onde a matemática não é um bicho-papão, mas um playground d
 
 O **InMathMate** nasceu dessa urgência. Somos uma plataforma inovadora, impulsionada por **Inteligência Artificial**, que atua como um tutor de matemática completo, personalizado e, acima de tudo, humano. Nosso projeto vai além do reforço escolar comum; ele é uma resposta direta à necessidade de **inclusão e apoio emocional** no aprendizado.
 
-[Diferenciais InMathMate]: ([https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/02 InMath.png](https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/02%20InMath.png))
-
 ### **Por Que o InMathMate é Essencial e Único?**
 
 Em um mercado saturado de ferramentas educacionais, o InMathMate se destaca por seus diferenciais inegáveis, que são o coração da nossa solução:
