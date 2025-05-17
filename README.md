@@ -8,7 +8,8 @@
 
 Imagine um mundo onde a matemática não é um bicho-papão, mas um playground divertido e acessível para todas as crianças. Para muitos alunos do 6º ano do Ensino Fundamental, a realidade é outra: a frustração com números e conceitos complexos pode levar à desmotivação e impactar toda a jornada escolar. Pense na realidade de **21 de 28 alunos com notas abaixo de 7** em uma única prova, este é um fato real – um sinal claro de que o método tradicional nem sempre alcança a todos. E para crianças com necessidades especiais de aprendizado, as barreiras são ainda maiores, tornando o acesso a um reforço de qualidade quase inexistente.
 
-[Desafios na Matemática]: ([https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/03 - InMath.png](https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/03%20-%20InMath.png))
+![03 - InMath](https://github.com/user-attachments/assets/5cb5a9c5-76df-4d20-899f-b948ee23c726)
+
 
 O **InMathMate** nasceu dessa urgência. Somos uma plataforma inovadora, impulsionada por **Inteligência Artificial**, que atua como um tutor de matemática completo, personalizado e, acima de tudo, humano. Nosso projeto vai além do reforço escolar comum; ele é uma resposta direta à necessidade de **inclusão e apoio emocional** no aprendizado.
 
