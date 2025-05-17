@@ -113,7 +113,7 @@ Este projeto está sob a [Licença MIT](https://github.com/acamilasarmento/Imers
 
 ---
 
-# 🏆 **Para a Imersão IA Alura + Google Gemini**
+## 🏆 **Para a Imersão IA Alura + Google Gemini**
 
 O **InMathMate** foi desenvolvido para o desafio da Imersão IA da Alura com o Google Gemini, e ele se alinha de forma excepcional com todos os critérios de avaliação:
 
