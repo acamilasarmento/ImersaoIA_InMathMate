@@ -112,3 +112,14 @@ Sua opinião é muito importante para nós! Se tiver sugestões, ideias para mel
 Este projeto está sob a [Licença MIT](https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/LICENSE)
 
 ---
+
+# 🏆 **Para a Imersão IA Alura + Google Gemini**
+
+O **InMathMate** foi desenvolvido para o desafio da Imersão IA da Alura com o Google Gemini, e ele se alinha de forma excepcional com todos os critérios de avaliação:
+
+- **Utilidade:** Resolve um problema real e urgente na educação do Ensino Fundamental, auxiliando crianças com dificuldades em matemática e promovendo a inclusão de forma ativa.
+- **Criatividade:** Aplica a Inteligência Artificial de forma inovadora para criar um **tutor personalizado, multimodal e empático**, representando um diferencial significativo e disruptivo no mercado educacional.
+- **Eficácia:** O sistema de agentes funciona de ponta a ponta, gerando diagnósticos precisos, explicações claras, exercícios relevantes e feedback construtivo, adaptando-se às necessidades individuais do aluno.
+- **Apresentação:** Este `README.md` detalhado e a demonstração em vídeo garantirão uma apresentação clara, impactante e completa do projeto.
+
+  ---
