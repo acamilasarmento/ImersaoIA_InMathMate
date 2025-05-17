@@ -1,4 +1,5 @@
 # ImersaoIA_InMathMate
+![Logo InMathMate](https://github.com/user-attachments/assets/8fa02f4d-b3b1-4fed-976d-6fe26b738e04)
 
 [Logo InMathMate]([https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/Logo InMathMate.png](https://github.com/acamilasarmento/ImersaoIA_InMathMate/blob/main/Logo%20InMathMate.png))
 
