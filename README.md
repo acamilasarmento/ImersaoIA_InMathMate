@@ -85,19 +85,9 @@ Para testar o **InMathMate** e ver a mágica acontecer em seu ambiente Google Co
 
 ---
 
-## 📺 **Demonstração do InMathMate (Altamente Recomendado!)**
+## 📺 **Demonstração do InMathMate **
 
-Para ver o **InMathMate** em ação e entender seu fluxo de trabalho, sugerimos a gravação de um vídeo curto (1-2 minutos). Ele fará seu projeto brilhar!
-
-- **O que mostrar no vídeo:**
-    - Apresente rapidamente o problema da matemática e a missão do InMathMate.
-    - Mostre a interação inicial: digitando o tópico de matemática e a preferência de aprendizado.
-    - Destaque a **explicação adaptada** do Agente 2, lendo a explicação gerada.
-    - **Ponto Crucial:** Se você escolheu a preferência "visual", mostre a **descrição da imagem** gerada pelo Agente 2. Explique que essa descrição é um prompt para uma ferramenta de geração de imagem e, em seguida, **exiba a imagem REAL** que você gerou previamente no Google AI Studio usando esse prompt. Isso comprova o diferencial da acessibilidade visual.
-    - Apresente os **desafios** do Agente 3 e, em seguida, o **feedback empático e construtivo** do Agente 4 (mostre a correção de um acerto e de um erro).
-- **Onde hospedar e Link:**
-    - Suba o vídeo para o YouTube (ou outra plataforma de vídeo pública).
-    - Inclua o link do vídeo aqui: [Vídeo Explicativo](https://www.loom.com/share/53efb207aa5f48b1b64c25139399fd3a?sid=c33d129b-77ac-4b51-9ef6-e027428a1538)
+    - Vídeo Demonstrativo: (https://www.loom.com/share/53efb207aa5f48b1b64c25139399fd3a?sid=c33d129b-77ac-4b51-9ef6-e027428a1538)
 
 ---
 
